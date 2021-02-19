@@ -26,9 +26,9 @@ echo -e "
  ┃SHARE        ┃ $grn$cod KERNEL=$o"$krn"$grn
  ┃             ┃ $grn$cod IPV4=$o"$ip"$grn
  ┃THANK YOU FOR┃ ------------------------------------
- ┃ USING M-WIZ ┃ |$grn FOLLLOW:$cod github.com/noob-hackers $grn|$grn
- ┃             ┃ |$grn SUBSCRIBE:$cod Noob Hackers          $grn|$grn
- ┃             ┃ |$grn CHAT:$cod wa.me/+919113948054        $grn|$grn
+ ┃ USING M-WIZ ┃ |$grn FOLLLOW:$cod github.com/xalgord $grn|$grn
+ ┃             ┃ |$grn Instagram:$cod Xalgord          $grn|$grn
+ ┃             ┃ |$grn CHAT:$cod https://chat.whatsapp.com/KxIamO6026S4ORUwboWubL        $grn|$grn
  ┃  ( ͡❛ ͜ʖ ͡❛)   ┃ ------------------------------------$grn
  ┃             ┃
  ┃ Noob Hackers┃ $blu METASPLOIT REQUIRES$grn 1GB$blu STORAGE $grn
