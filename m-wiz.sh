@@ -1,5 +1,3 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
-#M-WIZ TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
 check(){
@@ -58,7 +56,7 @@ echo -e "$red
                        ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
                                                    v 1.3$rset"
 echo " "                                                          
-echo -e "$red                                ▶ Coded by$grn N17RO$red ◀$rset"
+echo -e "$red                                $grn $red ◀$rset"
 echo -e "$red                                ⫸$ylo  Xalgord $red ⫷$rset"
 echo -e "$red                          ⫸$grn  github.com/xalgord $red⫷$rset"
 echo " "
