@@ -56,7 +56,7 @@ echo -e "$red
                        ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
                                                    v 1.3$rset"
 echo " "                                                          
-echo -e "$red                                $grn $red ◀$rset"
+echo -e "$red                                $grn * $red ◀$rset"
 echo -e "$red                                ⫸$ylo  Xalgord $red ⫷$rset"
 echo -e "$red                          ⫸$grn  github.com/xalgord $red⫷$rset"
 echo " "
